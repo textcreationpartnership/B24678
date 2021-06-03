@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lord Deputy General, and General Governor of his Majesties kingdom of Ireland. A declaration Tyrconnel, whereas having been certainly inform'd that the Prince of Orange intends to invade this his Majesties kingdom, who upon the landing of his forces will indeavour to possess himself of all the arms, ammunition and horses ...</title>
+            <author>Ireland. Lord Deputy (1687-1689 : Tyrconnel)</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24678</idno><idno type="EEBO-CITATION">99886349</idno>
+  <idno type="VID">186607</idno>
+  <idno type="EEBO-PROQUEST">2248538351</idno>
+  
+            <idno type="STC">Wing I365</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.12[35]</idno>
+            <idno type="STC">Interim Tract Supplement Guide G.6022[49]</idno>
+            <idno type="STC">ESTC R225876</idno>
+            <idno type="PROQUEST">ocm99886349</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886349e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24678)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186607)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:2[35]; C23:1[49])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lord Deputy General, and General Governor of his Majesties kingdom of Ireland. A declaration Tyrconnel, whereas having been certainly inform'd that the Prince of Orange intends to invade this his Majesties kingdom, who upon the landing of his forces will indeavour to possess himself of all the arms, ammunition and horses ...</title>
+                  <author>Ireland. Lord Deputy (1687-1689 : Tyrconnel)</author>
+                  <author>Tyrconnel, Richard Talbot, Earl of, 1630-1691.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook and Samuel Helsham, assigns of Benjamin Tooke printer to the Kings most excellent Majesty; and are to be sold by Andrew Crook at His Majesties printing-house on Ormonde-Key, and by Samuel Helsham at the Colledge-Arms in Castle-street.,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1688 [i.e. 1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at his Majesties castle of Dublin, the 25 day of February ... 1688.".</note>
+                  <note>Dates are given according to Lady Day dating.</note>
+                  <note>Arms 185.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:186607:1"/>
+            <head>
+               <figure>
+                  <figDesc>English coat of arms, circa 1688</figDesc>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <p>DIEV ET MON DROIT</p>
+               </figure>
+            </head>
+            <head>BY THE Lord Deputy General, AND General Governor of His Majesties Kingdom of IRELAND.</head>
+            <head type="sub">A DECLARATION</head>
+            <opener>
+               <salute>TYRCONNEL,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS Having been certainly inform'd that the Prince of <hi>Orange</hi> intends to invade this His Majesties Kingdom, who upon the landing of His Forces will indeavour to possess himself of all the Arms, Am<g ref="char:EOLhyphen"/>munition and Horses in the custody of private per<g ref="char:EOLhyphen"/>sons, as well to strengthen his own party, as to wea<g ref="char:EOLhyphen"/>ken his Majesties interest. And having found that several with Arms and Horses went out of this City to the North of <hi>Ireland,</hi> and other places of this Realm, to joyn with the Rebels there. For the prevention whereof, and to prevent the danger that may happen in leaving Arms and Horses in the hands of those that are not of the Army, have thought fit for His Majesties Service to seize upon all the Arms and serviceable Horses within the City of <hi>Dublin,</hi> and the Suburbs thereof; and to that end have given Orders to several Officers of the Army, with several parties of Horse, Foot, and Dragoons to seize the said Arms and Horses for his Majesties Use. And to prevent any disorder that may be committed by the Souldiers in searching for Arms in private Houses, We have directed the Lord Mayor and several of the Common Councel of the City, to give notice to the se<g ref="char:EOLhyphen"/>veral Inhabitants of <hi>Dublin</hi> of our said intention; And though We are certainly informed that the Inhabitants of this City have a considerable quantity of Arms and Ammunition, yet to frustrate Our intentions have concealed them, so as very
+<pb facs="tcp:186607:2"/>few are produced, to the great prejudice of his Majesties Affaires, We do therefore hereby strictly Charge and Command all Inhabitants, Dwellers, and all other Person and persons whatsoever within the City of <hi>Dublin,</hi> and the Suburbs there<g ref="char:EOLhyphen"/>of, and within the Liberties of St. <hi>Thomas Court,</hi> and St. <hi>Sepulcre</hi> being not of His Majesties privy Councel, or of the Standing Army, forthwith to repair with all their Fire Arms, Ammunition, Swords and Bagganets, to the Church doore of each Parish Church, where they severally dwell, and to deliver them to the Officers there appointed by Us to receive the same, as they and every of them shall an<g ref="char:EOLhyphen"/>swer the contrary at their Peril: hereby declaring that if any person or persons whatsoever shall in contempt of these our Orders, neglect producing their Fire Armes, Swords and Bagganets, according to the directions aforesaid, their Houses and all secret places therein shall be Searched by the Soldiers with all the Care Immaginable, and if upon Search made any Fire Arms, Ammunition, Swords, or Bagganets shall be found therein, We do hereby declare that such person and per<g ref="char:EOLhyphen"/>sons where any such Arms shall be found shall not only be punished as contemp<g ref="char:EOLhyphen"/>ners of these our Orders, but must run the Risque of the ill consequences which may fall upon them by the disorders of the Soldiers, hereby further declaring and assureing that all persons who shall comply with these our Commands shall be Protected in all other their goods without the least Molestation or Prejudice; excepting out of this our Order, the Swords of all Persons of Quallity and Gentle<g ref="char:EOLhyphen"/>men who may keep the same for their own Wearing.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at his Majesties Castle of</hi> Dublin, <date>
+                     <hi>the</hi> 25 <hi>day of</hi> February in the fifth Year of his Majesties Raigne And in the Year of our Lord God. 1688.</date>
+               </dateline>
+               <signed>VV. ELLIS</signed>
+            </closer>
+            <closer>GOD SAVE THE KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>DUBLIN, Printed by <hi>Andrew Crook</hi> and <hi>Samuel Helsham,</hi> Assigns of <hi>Benjamin Tooke</hi> Printer to the Kings most Excellent Majesty; and are to be Sold by <hi>Andrew Crook</hi> at His Majesties Printing-house on <hi>Ormonde-Key,</hi> and by <hi>Samuel Helsham</hi> at the <hi>Colledge-Arms</hi> in <hi>Castle-street.</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
